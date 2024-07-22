@@ -1,2 +1,3 @@
 # UFC Fighter Prediction
- An UFC fighter prediction software using python. 
+This software, developed in Python, is designed to assist UFC fighters in making informed predictions. Its functionality is as follows:
+To illustrate, consider a scenario in which a UFC team is considering transferring a new fighter. The program requires the input of the fighter's statistics, which are then evaluated using algorithms to determine their suitability for a specific weight class. This assessment considers not only the fighter's individual performance but also their potential success ratio in that weight class and other weight classes. If the calculated ratio is close to 1, the fighter may be transferred.
